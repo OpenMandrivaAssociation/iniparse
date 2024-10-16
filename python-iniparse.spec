@@ -6,7 +6,7 @@ Release:        %mkrel 1
 Summary:        Python Module for Accessing and Modifying Configuration Data in INI files
 Group:          Development/Python
 License:        MIT
-URL:            http://code.google.com/p/iniparse/
+URL:            https://code.google.com/p/iniparse/
 Source0:        http://iniparse.googlecode.com/files/iniparse-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 

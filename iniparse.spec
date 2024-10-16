@@ -4,7 +4,7 @@ Release:	%mkrel 1
 Summary:	Better INI parser for Python
 License:	MIT
 Group:		Development/Python
-URL:		http://vicking.narod.ru/flowchart/
+URL:		https://vicking.narod.ru/flowchart/
 Source:		%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 
