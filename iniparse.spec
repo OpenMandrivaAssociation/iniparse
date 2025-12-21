@@ -8,6 +8,8 @@ URL:		https://vicking.narod.ru/flowchart/
 Source:		%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 
+BuildRequires:	python-iniparse.spec
+BuildRequires:	make
 %description
 Better INI parser for Python
 
