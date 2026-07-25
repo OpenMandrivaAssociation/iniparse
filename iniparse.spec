@@ -1,6 +1,6 @@
 Name:		iniparse
 Version:	0.4
-Release:	%mkrel 1
+Release:	2
 Summary:	Better INI parser for Python
 License:	MIT
 Group:		Development/Python
